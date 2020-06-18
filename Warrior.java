@@ -1,7 +1,7 @@
 
 class Warrior {
 
-    private String name;
+    protected String name;
 
     Warrior(String name) {
         this.name = name;
