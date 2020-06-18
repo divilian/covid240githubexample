@@ -1,0 +1,4 @@
+
+class Sith extends Warrior {
+
+}
