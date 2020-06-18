@@ -11,6 +11,7 @@ class Sith extends Warrior {
         super("Sith");
     }
 
+    private int bankAccount;
     int getAge() {
         return 99999;
     }
