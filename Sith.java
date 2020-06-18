@@ -12,6 +12,8 @@ class Sith extends Warrior {
     }
 
     private int bankAccount;
+    boolean IsBrianCrazy() {
+    }
     int getAge() {
         return 99999;
     }
