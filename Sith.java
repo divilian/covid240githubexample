@@ -5,6 +5,7 @@
  */
 class Sith extends Warrior {
 
+    private int howEvilAmI;
     private int howPowerfulIsMyLightning;
     Sith() {
         super("Sith");
