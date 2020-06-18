@@ -9,4 +9,8 @@ class Sith extends Warrior {
     Sith() {
         super("Sith");
     }
+
+    int getAge() {
+        return 99999;
+    }
 }
