@@ -4,4 +4,7 @@
  */
 class BountyHunter extends Warrior {
 
+    BountyHunter(String name) {
+        super(name);
+    }
 }
