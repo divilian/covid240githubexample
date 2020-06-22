@@ -1,11 +1,10 @@
 
 class Jedi extends Warrior {
 
-    String lightsaberColor;
-    int age;
+    private String lightsaberColor;
+    private int age;
 
     Jedi(String name) {
         super(name);
     }
-
 }
