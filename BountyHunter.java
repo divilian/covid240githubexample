@@ -1,6 +1,6 @@
 
 /** 
- * BountyHunters are defenders of the peace.
+ * BountyHunters are selfish, money-driven individuals with no conscience.
  */
 class BountyHunter extends Warrior {
 
